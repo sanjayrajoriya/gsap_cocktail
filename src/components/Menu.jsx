@@ -31,7 +31,7 @@ export const Menu = () => {
         }); 
 
         parallaxMenu.from('#m-right-leaf', {
-            x: 50, y: 200
+            x: 20, y: 200
         }, 0)
         .from('#m-left-leaf', {
             x: -200, y: -200
